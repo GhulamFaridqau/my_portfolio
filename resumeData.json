@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Ghulam Farid",
+    "description":"I am a react engineer and I use react.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"download.png",
+    "bio":"I am Ghulam Farid, a goal-driven individual with strong communication skillset seeking a computer specialist role bringing experience with React, Data Science and Machine learning. I wanted to work in competitive, dynamic, and cooperative environment where there will be maximum chance of grow as an innovative proficient and committed person. I have an aptitude for all things research, design and innovation related.",
+    "email": "ghulamfarid96.gf@gmail.com",
+    "phone": "+923484263403",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Hostel 9, Quaid i Azam University)",
+      "city":"(Islamabad)"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ghulam.farid.92775/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Farid_there",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ghulam-farid-032003164/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/farid_here/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/GhulamFaridqau",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Quaid i Azam University Islamabad",
+        "degree":"BS in Computer Sciences",
+        "graduated":"April 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Aibers",
+        "title":"React Developer ",
+        "years":"Aug 2020 - Jul 2021",
+        "description":"Responsible for developing reuseable components and handling APIs data at frontend."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React Js",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project 1",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Project 2",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Project 3",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Project 4",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}

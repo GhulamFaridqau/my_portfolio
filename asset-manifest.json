@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./GhulamFaridqau.github.io/my_portfolio/static/css/main.bab0b925.chunk.css",
+    "main.js": "./GhulamFaridqau.github.io/my_portfolio/static/js/main.48c88e19.chunk.js",
+    "main.js.map": "./GhulamFaridqau.github.io/my_portfolio/static/js/main.48c88e19.chunk.js.map",
+    "runtime-main.js": "./GhulamFaridqau.github.io/my_portfolio/static/js/runtime-main.e47b8083.js",
+    "runtime-main.js.map": "./GhulamFaridqau.github.io/my_portfolio/static/js/runtime-main.e47b8083.js.map",
+    "static/js/2.855f5867.chunk.js": "./GhulamFaridqau.github.io/my_portfolio/static/js/2.855f5867.chunk.js",
+    "static/js/2.855f5867.chunk.js.map": "./GhulamFaridqau.github.io/my_portfolio/static/js/2.855f5867.chunk.js.map",
+    "static/js/3.d8267dcd.chunk.js": "./GhulamFaridqau.github.io/my_portfolio/static/js/3.d8267dcd.chunk.js",
+    "static/js/3.d8267dcd.chunk.js.map": "./GhulamFaridqau.github.io/my_portfolio/static/js/3.d8267dcd.chunk.js.map",
+    "index.html": "./GhulamFaridqau.github.io/my_portfolio/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "./GhulamFaridqau.github.io/my_portfolio/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.855f5867.chunk.js.LICENSE.txt": "./GhulamFaridqau.github.io/my_portfolio/static/js/2.855f5867.chunk.js.LICENSE.txt",
+    "static/media/home-main.541f8179.svg": "./GhulamFaridqau.github.io/my_portfolio/static/media/home-main.541f8179.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47b8083.js",
+    "static/js/2.855f5867.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.48c88e19.chunk.js"
+  ]
+}
